@@ -1,11 +1,13 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 
-int main(){
+int main()
+{
     int n;
-    cin>>n;
-    do{
-        cout<<n<<endl;
-        cin>>n;
-    }while(n>=0);
+    cin >> n;
+    do
+    {
+        cout << n << endl;
+        cin >> n;
+    } while (n >= 0);
 }
