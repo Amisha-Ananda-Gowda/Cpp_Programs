@@ -44,6 +44,9 @@ prime.cpp
 primebetweenaandb.cpp
 
 
+simplecalculator.cpp
+
+
 
 size.cpp
 A program to find size of all data-types
