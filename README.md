@@ -14,7 +14,7 @@ max.cpp
 A program to find maximum of 3 numbers
 
 notdivisiblby3.cpp
-A program to 
+A program to find 
 
 
 numberpattern.cpp
