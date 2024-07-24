@@ -3,7 +3,7 @@
 
 # evenorodd.cpp
 
-max.cpp
+#max.cpp
 
 notdivisibleby3.cpp
 
