@@ -5,7 +5,7 @@
 
 # max.cpp
 
-#notdivisibleby3.cpp
+# notdivisibleby3.cpp
 
 rectanglepattern.cpp
 
