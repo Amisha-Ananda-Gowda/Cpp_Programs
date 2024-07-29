@@ -7,7 +7,7 @@
 
 # notdivisibleby3.cpp
 
-rectanglepattern.cpp
+#rectanglepattern.cpp
 
 sum.cpp
 
