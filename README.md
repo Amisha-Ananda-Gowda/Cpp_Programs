@@ -9,7 +9,7 @@
 
 # rectanglepattern.cpp
 
-#sum.cpp
+# sum.cpp
 
 
 
