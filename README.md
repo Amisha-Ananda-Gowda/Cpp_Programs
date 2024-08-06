@@ -1,4 +1,9 @@
 # arithmeticop.cpp
+
+# butterflypattern.cpp
+
+# dowhilenonegative.cpp
+
 # hello.cpp
 
 # evenorodd.cpp
