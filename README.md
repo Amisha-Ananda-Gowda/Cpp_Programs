@@ -4,6 +4,8 @@
 
 # dowhilenonegative.cpp
 
+# floydstriangle.cpp
+
 # hello.cpp
 
 # evenorodd.cpp
