@@ -1,3 +1,10 @@
+# arithmeticop.cpp
+
+# butterflypattern.cpp
+
+# dowhilenonegative.cpp
+
+# floydstriangle.cpp
 
 # hello.cpp
 
@@ -10,9 +17,16 @@
 # halfpyramid180degpattern.cpp
 
 
-#rectanglepattern.cpp
+# halfpyramid180degpattern.cpp
 
-sum.cpp
+
+# rectanglepattern.cpp
+
+# sum.cpp
+
+
+
+
 
 
 
