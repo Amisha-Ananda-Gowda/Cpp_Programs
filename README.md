@@ -16,10 +16,6 @@
 
 # halfpyramid180degpattern.cpp
 
-
-# halfpyramid180degpattern.cpp
-
-
 # rectanglepattern.cpp
 
 # sum.cpp
