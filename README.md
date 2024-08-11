@@ -8,13 +8,15 @@
 
 # floydstriangle.cpp
 
+# halfpyramid180degpattern.cpp
+
 # hello.cpp
 
 # max.cpp
 
 # notdivisibleby3.cpp
 
-# halfpyramid180degpattern.cpp
+
 
 # rectanglepattern.cpp
 
