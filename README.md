@@ -5,6 +5,7 @@
 # dowhilenonegative.cpp
 
 # evenorodd.cpp
+A program to check whether a given number is even or odd.
 
 # floydstriangle.cpp
 
