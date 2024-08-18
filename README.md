@@ -2,6 +2,7 @@
 
 
 # butterflypattern.cpp
+A program to print butterfly pattern
 
 
 # dowhilenonegative.cpp
