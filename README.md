@@ -1,5 +1,5 @@
 # arithmeticop.cpp
-
+A program to perform arithmetic operations.
 
 # butterflypattern.cpp
 A program to print butterfly pattern
