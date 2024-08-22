@@ -11,7 +11,7 @@ A program to print butterfly pattern
 A program to check whether a given number is even or odd.
 
 # floydstriangle.cpp
-
+A program to print floyd's triangle.
 
 # halfpyramid180degpattern.cpp
 
