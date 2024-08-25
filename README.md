@@ -17,7 +17,7 @@ A program to print floyd's triangle.
 
 
 # hello.cpp
-
+A program to display hello world.
 
 # max.cpp
 
