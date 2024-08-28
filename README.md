@@ -20,7 +20,7 @@ A program to print floyd's triangle.
 A program to display hello world.
 
 # max.cpp
-
+A program to find maximum number.
 
 # notdivisibleby3.cpp
 
