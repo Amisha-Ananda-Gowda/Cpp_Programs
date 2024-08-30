@@ -28,6 +28,13 @@ A program to find maximum number.
 
 # rectanglepattern.cpp
 
+
+# reverse.cpp
+A program to reverse a given number
+
+# reversewhile.cpp
+A program to reverse a given number using while loop
+
 # sum.cpp
 
 
