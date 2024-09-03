@@ -36,7 +36,7 @@ A program to reverse a given number
 A program to reverse a given number using while loop
 
 # sum.cpp
-
+A program to find sum
 
 
 
