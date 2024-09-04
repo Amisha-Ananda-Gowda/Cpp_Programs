@@ -6,7 +6,7 @@ A program to perform arithmetic operations.
 A program to print butterfly pattern
 
 # dowhilenonegative.cpp
-
+A program 
 
 # evenorodd.cpp
 A program to check whether a given number is even or odd.
@@ -24,6 +24,7 @@ A program to display hello world.
 A program to find maximum number.
 
 # notdivisibleby3.cpp
+
 
 
 # rectanglepattern.cpp
