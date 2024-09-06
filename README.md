@@ -26,7 +26,6 @@ A program to find maximum number.
 # notdivisibleby3.cpp
 
 
-
 # rectanglepattern.cpp
 
 
