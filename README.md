@@ -2,6 +2,7 @@
 A program to perform arithmetic operations.
 
 # add2integers.cpp
+A program to add two integers
 
 # butterflypattern.cpp
 A program to print butterfly pattern
