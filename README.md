@@ -17,7 +17,7 @@ A program to check whether a given number is even or odd.
 A program to print floyd's triangle.
 
 # halfpyramid180degpattern.cpp
-
+A program to print '*' in half pyramid pattern inclined at 180°.
 
 # hello.cpp
 A program to display hello world.
