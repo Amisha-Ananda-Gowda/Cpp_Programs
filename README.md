@@ -8,7 +8,7 @@ A program to add two integers
 A program to print butterfly pattern
 
 # dowhilenonegative.cpp
-A program to
+A program to do specific
 
 # evenorodd.cpp
 A program to check whether a given number is even or odd.
