@@ -7,7 +7,7 @@ A program to perform arithmetic operations.
 # armstrong.cpp
 
 # add2integers.cpp
-A program to add two integers
+A program to add two integers.
 
 # butterflypattern.cpp
 A program to print butterfly pattern
