@@ -1,5 +1,5 @@
 # addBinary.cpp
-
+A program to add two binary numbers.
 
 # arithmeticop.cpp
 A program to perform arithmetic operations.
