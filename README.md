@@ -13,7 +13,7 @@ A program to add two integers.
 A program to print butterfly pattern
 
 # combination.cpp
-
+A program to find combination
 
 # dowhilenonegative.cpp
 A program to do specific
