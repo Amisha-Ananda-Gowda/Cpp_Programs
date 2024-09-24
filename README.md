@@ -5,7 +5,7 @@ A program to add two binary numbers.
 A program to perform arithmetic operations.
 
 # armstrong.cpp
-A program 
+A program to identify if the given number is an Armstrong number or not.
 
 # add2integers.cpp
 A program to add two integers.
@@ -35,7 +35,7 @@ A program to display hello world.
 A program to find maximum number.
 
 # notdivisibleby3.cpp
-A program 
+
 
 # rectanglepattern.cpp
 A program to print '*' in a rectangular pattern.
