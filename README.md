@@ -52,5 +52,3 @@ A program to find sum
 
 
 
-
-
