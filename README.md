@@ -10,6 +10,8 @@ A program to identify if the given number is an Armstrong number or not.
 # add2integers.cpp
 A program to add two integers.
 
+# binarysearch.cpp
+
 # butterflypattern.cpp
 A program to print butterfly pattern
 
