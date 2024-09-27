@@ -24,6 +24,8 @@ A program to do specific
 # evenorodd.cpp
 A program to check whether a given number is even or odd.
 
+# factorial.cpp
+
 # floydstriangle.cpp
 A program to print floyd's triangle.
 
