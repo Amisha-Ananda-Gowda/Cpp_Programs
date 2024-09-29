@@ -11,7 +11,7 @@ A program to identify if the given number is an Armstrong number or not.
 A program to add two integers.
 
 # binarysearch.cpp
-
+A program to search a number in an array using binary search.
 
 # butterflypattern.cpp
 A program to print butterfly pattern
