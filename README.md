@@ -48,7 +48,6 @@ A program to find maximum number.
 # rectanglepattern.cpp
 A program to print '*' in a rectangular pattern.
 
-
 # reverse.cpp
 A program to reverse a given number
 
