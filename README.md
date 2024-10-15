@@ -29,7 +29,7 @@ A program to do specific
 A program to check whether a given number is even or odd.
 
 # factorial.cpp
-A program to 
+A program to find the factorial of a given number.
 
 #fibonacci.cpp
 # floydstriangle.cpp
