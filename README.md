@@ -31,7 +31,7 @@ A program to check whether a given number is even or odd.
 # factorial.cpp
 A program to find the factorial of a given number.
 
-#fibonacci.cpp
+# fibonacci.cpp
 
 # floydstriangle.cpp
 A program to print floyd's triangle.
