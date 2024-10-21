@@ -57,7 +57,7 @@ A program to print '*' in a rectangular pattern.
 A program to reverse a given number
 
 # reversewhile.cpp
-A program to reverse a given number using while loop
+A program to reverse a given number using while loop.
 
 # sum.cpp
 A program to find sum
