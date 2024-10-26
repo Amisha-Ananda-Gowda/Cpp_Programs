@@ -60,7 +60,7 @@ A program to reverse a given number
 A program to reverse a given number using while loop.
 
 # sum.cpp
-A program to find sum
+A program to find sum of two numbers.
 
 #
 A program to
