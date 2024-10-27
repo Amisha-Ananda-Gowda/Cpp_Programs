@@ -47,14 +47,14 @@ A program to display hello world.
 A program to find maximum number.
 
 # notdivisibleby3.cpp
-
+A
 
 
 # rectanglepattern.cpp
 A program to print '*' in a rectangular pattern.
 
 # reverse.cpp
-A program to reverse a given number
+A program to reverse a given number.
 
 # reversewhile.cpp
 A program to reverse a given number using while loop.
