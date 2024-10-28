@@ -47,7 +47,7 @@ A program to display hello world.
 A program to find maximum number.
 
 # notdivisibleby3.cpp
-A
+A program 
 
 
 # rectanglepattern.cpp
