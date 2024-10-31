@@ -44,7 +44,7 @@ A program to print '*' in half pyramid pattern inclined at 180°.
 A program to display hello world.
 
 # linearsearch.cpp
-A program 
+A program to
 
 # max.cpp
 A program to find maximum number.
