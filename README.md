@@ -17,7 +17,7 @@ A program to search a number in an array using binary search.
 A program to print butterfly pattern
 
 # bubblesort.cpp
-A program to sort using bubble sort
+A program to sort using bubble sort algorithm.
 
 # combination.cpp
 A program to find combination
