@@ -50,7 +50,7 @@ A program to search a given number using linear search.
 A program to find maximum number.
 
 # notdivisibleby3.cpp
-A program 
+A program to
 
 # rectanglepattern.cpp
 A program to print '*' in a rectangular pattern.
