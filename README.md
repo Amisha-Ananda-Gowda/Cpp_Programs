@@ -20,7 +20,7 @@ A program to print butterfly pattern
 A program to sort using bubble sort algorithm.
 
 # combination.cpp
-A program to find combination
+A program to find combination.
 
 # dowhilenonegative.cpp
 A program to do specific
