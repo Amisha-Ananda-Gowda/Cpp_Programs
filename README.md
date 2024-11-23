@@ -48,6 +48,8 @@ A program to display hello world.
 # linearsearch.cpp
 A program to search a given number using linear search.
 
+# logicalop.cpp
+
 # max.cpp
 A program to find maximum number.
 
