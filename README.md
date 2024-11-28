@@ -1,5 +1,5 @@
 # add2integers.cpp
-A program to add 
+A program to add two
 
 # addBinary.cpp
 A program to add two binary numbers.
