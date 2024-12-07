@@ -70,7 +70,7 @@ A program to reverse a given number using while loop.
 A program to find sum of two numbers.
 
 # firstrepeatingelement.cpp
-A program to find the first 
+A program to find the first repeating
 
 #
 A program to 
