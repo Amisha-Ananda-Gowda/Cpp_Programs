@@ -78,7 +78,7 @@ A program to
 # zizagpattern
 A program to 
 
-#.cpp
+# .cpp
 A program to 
 
 # 
