@@ -75,7 +75,7 @@ A program to find the first repeating element in
 # vote.cpp
 A program to 
 
-# zizagpattern
+# zizagpattern.cpp
 A program to 
 
 # .cpp
