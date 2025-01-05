@@ -76,7 +76,7 @@ A program to find the first repeating element in
 A program to 
 
 # zizagpattern.cpp
-A program to 
+A program to make
 
 # .cpp
 A program to 
