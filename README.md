@@ -79,8 +79,6 @@ A program to
 A program to make zig zag pattern.
 
 
-
-
 # .cpp
 A program to make
 
