@@ -79,7 +79,7 @@ A program to
 A program to make zig zag pattern.
 
 # .cpp
-A program to make
+A program to make the
 
 # .cpp
 A program to find the
