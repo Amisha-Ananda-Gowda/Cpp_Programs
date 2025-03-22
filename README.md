@@ -72,9 +72,6 @@ A program to find the first repeating element in
 # vote.cpp
 A program to 
 
-# zizagpattern.cpp
-A program to make zig zag pattern.
-
 # .cpp
 A program to make the
 
@@ -92,3 +89,6 @@ A program
 
 # .cpp
 A program 
+
+# zizagpattern.cpp
+A program to make zig zag pattern.
