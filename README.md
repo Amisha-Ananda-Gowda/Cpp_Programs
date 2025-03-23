@@ -88,7 +88,7 @@ A program
 A program
 
 # .cpp
-A program 
+A program to
 
 # zizagpattern.cpp
 A program to make zig zag pattern.
