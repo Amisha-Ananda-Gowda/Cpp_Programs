@@ -85,7 +85,7 @@ A program to find the
 A program 
 
 # .cpp
-A program
+A program to
 
 # .cpp
 A program to
