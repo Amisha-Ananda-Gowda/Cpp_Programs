@@ -70,7 +70,7 @@ A program to find sum of two numbers.
 A program to find the first repeating element in
 
 # vote.cpp
-A program to 
+A program to the
 
 # .cpp
 A program to make the
